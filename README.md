@@ -15,6 +15,44 @@ off the Internet, having impact in scientific research, novel marketplaces,
 social connectivity, the transgression of evolution from a biological substrate
 into a technological one..
 
+## Challenges
+
+- learn Node
+  * [The Art of Node](https://github.com/maxogden/art-of-node)
+  * understand async control flow with callbacks, promises, generators
+  * [cb-promises-generators](https://medium.com/@rdsubhas/es6-from-callbacks-to-promises-to-generators-87f1c0cd8f2e#.5qhu279mz)
+  * events
+  * streams
+  * modules
+- learn React
+  * [getting started](https://facebook.github.io/react/docs/getting-started.html)
+  * props, state, lifecylce methods
+  * with ES6 classes
+- [ToDo](http://todomvc.com/) app backed by
+  * MongoDB
+  * PostgreSQL
+- learn redux
+  * Egghead videos
+  * [Full stack redux](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)
+  * Todo example
+  * async actions with redux-thunk
+  * async with redux-sagas
+- webpack
+- gulp
+- bonuses
+  * layer GraphQL on top of PostgreSQL
+
+If you want to use koa, understand *generators*:
+- [ES6 Generators](https://davidwalsh.name/es6-generators)
+- [Analysis of Generators and other Async Patterns in Node](https://spion.github.io/posts/analysis-generators-and-other-async-patterns-node.html)
+
+## App Types
+
+- basic HTML, CSS, JS (jQuery probably)
+- serverside rendering with templates like Jade, Handlebars
+- JSON API powering a SPA (single page application)
+- react isomorphic - mix of serverside render that becomes SPA on client
+
 ## Timeline
 
 Web dev proceeded roughly as follows:
